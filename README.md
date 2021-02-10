@@ -1,1 +1,1 @@
-# ATmel_AVR_Proj
+# Projects from AVR board
